@@ -1,9 +1,9 @@
 # Jabulile Mbali Gamede
 #  About Me:
- Junior Software Engineer & Data Analyst | Python, JS, Django, FastAPI, React
-Turning ideas into clean, functional web and data projects.
-Open to junior dev and data roles.
+I’m a Junior Software Engineer & Data Analyst who loves building things that work and making sense of why they work.
 
+By day I’m coding APIs in Django/FastAPI and UIs in React. 
+By night I’m digging into datasets with Python and SQL to find the story in the data.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jabulile Mbali Gamede) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jabulilembaligamede@gmail.com) 
