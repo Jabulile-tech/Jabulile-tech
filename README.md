@@ -1,5 +1,5 @@
 # Jabulile Mbali Gamede
-# 💫 About Me:
+#  About Me:
  Junior Software Engineer & Data Analyst | Python, JS, Django, FastAPI, React
 Turning ideas into clean, functional web and data projects.
 Open to junior dev and data roles.
